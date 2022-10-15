@@ -5,7 +5,7 @@
 <h4 align="center"> 
                       <p>Projeto finalizado</p>
 </h4><div display:"flex">
-<p>Técninas e tecnologias aplicadas</p>
+<p>Técnicas e tecnologias aplicadas</p>
 :hammer: HTML5
 <br>
 :hammer: CSS3
