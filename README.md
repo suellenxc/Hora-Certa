@@ -6,10 +6,10 @@
                       <p>Projeto finalizado</p>
 </h4><div display:"flex">
 <p>Técnicas e tecnologias aplicadas</p>
-:hammer: HTML5
+:hammer: HTML5 
 <br>
-:hammer: CSS3
+:hammer: CSS3 
 <br>
-:hammer: Javascript
+:hammer: Javascript - Dom, comandos e condicionais
 <br>
 
